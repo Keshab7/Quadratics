@@ -13,7 +13,8 @@ public class Main {
         b=3;
         c=1;
         //todo do calculations
-
+        axisOfSymmetry = -b/(2*a);
+        discriminant = (b*b)-4(1*c)
         //todo print results
 
         //todo not in code check results
